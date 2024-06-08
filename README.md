@@ -18,6 +18,14 @@
   </a>
 </p>
 
+<details>
+   <summary>Highlights 📌</summary>
+   <br/>
+   <a href="https://github.com/debojitkumardas/DSA">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debojitkumardas&repo=DSA&theme=default" />
+   </a>
+</details>
+
 <div style="background-color: grey; display: inline-block; padding: 5px;">
    <img src="./icons/c-original.svg" title="C" alt="C" width=50 height=50/>&nbsp;
    <img src="./icons/cplusplus-original.svg" title="Cpp" alt="Cpp" width=50 height=50/>&nbsp;
