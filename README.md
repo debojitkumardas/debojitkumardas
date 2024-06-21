@@ -7,7 +7,7 @@
       <summary>Repo 📌</summary>
       <br/>
       <a href="https://github.com/debojitkumardas/DSA">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debojitkumardas&repo=A32BitKernel&theme=dark" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debojitkumardas&repo=A32BitKernel&theme=default" />
       </a>
    </details>
 <hr>
