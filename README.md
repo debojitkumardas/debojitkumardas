@@ -9,6 +9,8 @@
       <a href="https://github.com/debojitkumardas/A32BitKernel">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debojitkumardas&repo=A32BitKernel&theme=dark" />
       </a>
+   </details>
+   <details>
       <summary>SQL database engine 📌</summary>
       <br/>
       <a href="https://github.com/debojitkumardas/Databaez">
