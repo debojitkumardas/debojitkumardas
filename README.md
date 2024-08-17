@@ -2,12 +2,17 @@
 
 👋 Hi there! I'm a C/C++ developer with a keen interest in systems programming, databases and distributed computing. I'm looking to expand my skills by working on projects that I find interesting.
 
-- 🔭 I’m currently working on a 32 bit kernel.
+- 🔭 I’m currently working on a 32 bit kernel and a SQL database engine (in collaboration with my friend [Aravind Sugunan](https://github.com/ats2008)).
    <details>
-      <summary>Repo 📌</summary>
+      <summary>32-Bit Kernel 📌</summary>
       <br/>
       <a href="https://github.com/debojitkumardas/A32BitKernel">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debojitkumardas&repo=A32BitKernel&theme=dark" />
+      </a>
+      <summary>SQL database engine 📌</summary>
+      <br/>
+      <a href="https://github.com/debojitkumardas/Databaez">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debojitkumardas&repo=Databaez&theme=dark" />
       </a>
    </details>
 <hr>
