@@ -7,14 +7,11 @@
 <div style="background-color: grey; display: inline-block; padding: 5px;">
    <img src="./icons/c-original.svg" title="C" alt="C" width=50 height=50/>&nbsp;
    <img src="./icons/cplusplus-original.svg" title="Cpp" alt="Cpp" width=50 height=50/>&nbsp;
-   <img src="./icons/go-original.svg" title="Go" alt="Go" width=50 height=50/>&nbsp;
-   <img src="./icons/python-original.svg" title="Python" alt="Python" width=50 height=50/>&nbsp;
    <img src="./icons/bash-original.svg" title="Bash" alt="Bash" width=50 height=50/>&nbsp;
    <img src="./icons/git-original.svg" title="Git" alt="Git" width=50 height=50/>&nbsp;
    <img src="./icons/cmake-original.svg" title="CMake" alt="CMake" width=50 height=50/>&nbsp;
    <img src="./icons/linux-original.svg" title="Linux" alt="Linux" width=50 height=50/>&nbsp;
    <img src="./icons/neovim-original.svg" title="Neovim" alt="Neovim" width=50 height=50/>&nbsp;
-   <img src="./icons/sqlite-original.svg" title="SQLite" alt="SQLite" width=50 height=50/>&nbsp;
 </div>
 
 <div align="left">
